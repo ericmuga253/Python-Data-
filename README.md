@@ -1,4 +1,4 @@
-# European Privacy Fines Analysis
+# European Data Privacy Fines Analysis
 ![Screenshot 2025-03-05 132806](https://github.com/user-attachments/assets/5ab628bf-8f1b-4a04-8cce-1d7480a35283)
 
 ## Project Overview
